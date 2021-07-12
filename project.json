@@ -1,7 +1,7 @@
 {
   "name": "Project organization practices",
   "description": "Project organization practices",
-  "main": "Main.xaml",
+  "main": "Practice 2.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
@@ -42,8 +42,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "a930e694-30fd-40fa-b78d-3bd086d8fb89",
+      "filePath": "Practice 2.xaml",
+      "uniqueId": "b634e5ae-9148-4757-a39d-8b120c32e30f",
       "input": [],
       "output": []
     }
